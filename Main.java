@@ -16,6 +16,7 @@ class Main {
         LolaAmour.changeFavSong("Raining In Manila");
 
         System.out.println("That concludes Part 1 of the Exercise. Moving on to part 2");
+        System.out.println("This is Part 2");
 
         //part 2 of the exercise: freestyle code from last exercise
     
